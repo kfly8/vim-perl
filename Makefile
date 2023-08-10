@@ -57,3 +57,7 @@ test-more: contrib_syntax
 
 try-tiny: contrib_syntax
 	cp contrib/try-tiny.vim after/syntax/perl/
+
+class: contrib_syntax
+	cp contrib/class.vim after/syntax/perl/
+
